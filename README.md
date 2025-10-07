@@ -2,7 +2,7 @@
 
 > License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (Attribution)  
 > Author: Visser (惟瑟)  
-> DOI: *(to be assigned by Zenodo)*  
+> DOI: 10.5281/zenodo.17290168
 > Year: 2025  
 
 ---
@@ -52,7 +52,7 @@ Ricca, metaphysics, poetic text, open culture, CC BY, Visser
   title        = {Ricca and the Cheesecake Dream},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.xxxx/zenodo.xxxxx},
+  doi          = {10.5281/zenodo.17290168},
   license      = {CC BY 4.0},
   url          = {https://creativecommons.org/licenses/by/4.0/}
 }
