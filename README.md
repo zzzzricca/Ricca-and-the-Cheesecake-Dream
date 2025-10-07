@@ -7,6 +7,20 @@
 
 ---
 
+## 🧀 概要 / Abstract
+
+**中文：**  
+《Ricca and the Cheesecake Dream》是一部以「不作為」與「非干預」之超越存在為核心概念的哲學寓言文本。
+主角 Ricca 是一位沉睡的神祇，祂什麼都不做，只做夢；而祂夢中的起司蛋糕成為萬物的恩典與啟示。
+作品以簡短條文的形式呈現，一方面延伸宗教經典的語氣，一方面探討自由、責任與存在的意義。
+
+**English:**  
+Ricca and the Cheesecake Dream is a philosophical parable centered on the transcendent existence of inaction and non-intervention.
+The protagonist, Ricca, is a slumbering deity who does nothing but dream; the cheesecake in Her dream becomes the grace and revelation bestowed upon all beings.
+Presented in a series of concise articles, the work extends the tone of sacred scripture while exploring the meaning of freedom, responsibility, and existence.
+
+---
+
 ## 🪞 Structure
 
 - Language versions:
