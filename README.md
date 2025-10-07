@@ -43,7 +43,7 @@ Ricca, metaphysics, poetic text, open culture, CC BY, Visser
 ## 💬 Citation / 引用格式
 
 **APA 7th:**
-> Visser. (2025). *Ricca and the Cheesecake Dream* [Text]. Zenodo. https://doi.org/xxxxxxx
+> Visser. (2025). *Ricca and the Cheesecake Dream* [Text]. Zenodo. https://doi.org/10.5281/zenodo.17290167
 
 **BibTeX:**
 ```bibtex
