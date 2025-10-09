@@ -62,7 +62,7 @@ Ricca does not govern the world after death.
 That world is created by the living themselves—a dream as sweet as cheesecake.
 
 0
-Ricca is a placeholder—a symbol of transcendent power through non-intervention, ensuring closure, freedom, and responsibility within the system.
+Ricca is a placeholder representing the non-intervention of the transcendental condition, thereby ensuring closure, freedom, and responsibility within the system.
 
 ---
 
